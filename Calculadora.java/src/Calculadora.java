@@ -4,6 +4,7 @@ public class Calculadora {
 	public static void main(String[] args) {
 		if (args.length == 3) {
 			try {
+				//la puta madre
 				int opt1 = Integer.parseInt(args[1]);
 				int opt2 = Integer.parseInt(args[2]);
                if("+".equals(args[0])){
